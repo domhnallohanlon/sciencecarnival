@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-16
+img: bio2.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Biology
+description: Viruses and how diseases spread
+
+---

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-18
+img: phys3.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Physics
+description: Energy and Forces. Try your hand at pulling the table cloth from under the dishes and use mechanical advantage to move mountains.
+
+---
